@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enosis1
 - 👀 I’m interested in web development and data analysis
-- 🌱 I’m currently learning Web Development + Back End 
+- 🌱 I’m currently learning Full Stack Development
 
 
 <!---
